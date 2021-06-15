@@ -1,6 +1,6 @@
 -------
-Estudiante 1: Daniel Reales
-Estudiante 2: Jose Vicente Vargas
+Estudiante 1: Daniel Reales (201822265) da.reales@uniandes.edu.co
+Estudiante 2: Jose Vicente Vargas (201815601) jv.vargas@uniandes.edu.co
 -------
 
 #ISIS1225 - Estructura de un proyecto
